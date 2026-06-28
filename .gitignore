@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# ML artifacts
+data/
+mlruns/
+mlflow.db
+
+# Docker
+*.log
+
+# macOS
+.DS_Store
+# macOS
+.DS_Store
+
+# ML artifacts
+data/
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+.env
+# macOS
+.DS_Store
+
+# ML artifacts
+data/
+mlruns/
+mlflow.db
+
+# Python
+__pycache__/
+*.pyc
+.env

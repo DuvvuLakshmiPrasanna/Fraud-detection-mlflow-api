@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+gunicorn
+pydantic
+pydantic-settings
+numpy
+pandas
+scikit-learn
+mlflow
+python-dotenv
+httpx
+pytest
+python-json-logger
