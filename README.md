@@ -263,7 +263,7 @@ Using a table prevents the descriptions for small screenshots from overlapping.
 ## Docker Image
 A prebuilt Docker image is available:
 
-**Docker Hub**: https://hub.docker.com/r/rushi5706/fraud-detection-api
+**Docker Hub**: https://hub.docker.com/r/DuvvuLakshmiPrasanna/fraud-detection-api
 
 ---
 
@@ -292,4 +292,3 @@ They are recreated automatically via the provided scripts.
 
 ## Conclusion
 This project delivers a complete, reproducible fraud detection inference system that follows modern MLOps best practices. It is designed to be easily evaluated, deployed, and extended for real-world use cases.
-
